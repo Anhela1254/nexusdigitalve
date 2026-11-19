@@ -1,0 +1,29 @@
+NEW ERA – NEXUS DIGITAL HUB | LANDING PAGE ESTÁTICA
+
+ARCHIVOS:
+- index.html: página principal
+- styles.css: diseño adaptable para computadora y celular
+- script.js: menú móvil y enlaces de contacto
+- config.js: AQUÍ SE CAMBIAN LOS LINKS REALES DE LA MARCA
+- favicon.svg: ícono simple propio para la pestaña
+
+PERSONALIZACIÓN (ANTES DE PUBLICAR):
+1. Abre config.js con Bloc de notas o VS Code.
+2. Coloca las URL oficiales de New Era (Instagram, Facebook, WhatsApp, correo). No reutilices las de ClipNova.
+3. Confirma que las descripciones de la marca correspondan a sus servicios reales.
+4. Agrega información legal y comercial cuando exista: datos del vendedor, condiciones, reembolsos, política de privacidad y términos del servicio.
+5. Publica solo servicios con derechos de comercialización y compatibles con las políticas de los proveedores y Meta.
+
+PUBLICAR EN NETLIFY:
+1. Extrae el ZIP.
+2. Abre https://app.netlify.com/drop
+3. Arrastra la carpeta new_era_nexus_web que contiene index.html.
+4. Copia el nuevo enlace https://...netlify.app que Netlify genere.
+5. En Facebook New Era: Información > Información de contacto > Sitio web > pega esa URL.
+6. En Instagram New Era: Editar perfil > Enlaces > Agregar enlace externo > pega la URL.
+
+IMPORTANTE:
+- Este sitio es una plantilla inicial de presentación, NO una tienda con pagos ni catálogo verificado.
+- Los canales de contacto están ocultos hasta que ingreses datos reales en config.js.
+- La publicación web no supone autorización para vender licencias digitales ni aprobación publicitaria de Meta.
+- No crees ni uses activos para evadir restricciones previas de plataformas.
